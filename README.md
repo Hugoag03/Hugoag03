@@ -61,8 +61,7 @@ Si tienes alguna idea interesante o simplemente quieres charlar sobre tecnologí
 
 ### 🐞 Herramientas de pruebas :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>height="40"/>
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
 </div>
 
 ---
