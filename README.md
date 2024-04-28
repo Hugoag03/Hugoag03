@@ -23,8 +23,10 @@
 
 ---
 ### :man_technologist: About Me :
-I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New Zealand.
-- :telescope: I’m working as a Senior Test Engineer Contractor and contributing to projects both in Wellington and remotely around all New Zealand and Australia.
+¡Hola, soy Hugo Arévalo Gil! 👋
+Desarrollador de Aplicaciones Multiplataforma (DAM) | Apasionado por la creación de soluciones innovadoras con tecnologías como Java Spring Boot, MySQL, Angular y Python.
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- :telescope: ¡Bienvenido a mi perfil de GitHub! Soy un entusiasta desarrollador con una pasión ardiente por la creación de software de calidad que aborda desafíos del mundo real. Con una sólida experiencia en tecnologías como Java Spring Boot, MySQL, Angular y Python, disfruto explorando nuevas formas de desarrollar aplicaciones eficientes y escalables.
 
 - :seedling: Mentoring the new generations of Test Engineers in New Zealand through <a href="https://devacademy.co.nz/testing-automation-essentials/">DevAcademy Aotearoa</a>
 
