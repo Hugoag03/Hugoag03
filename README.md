@@ -33,26 +33,24 @@ Frameworks: Spring Boot, Angular...
 Bases de Datos: MySQL, SQL Server...
 Herramientas: Git, GitHub, VS Code, IntelliJ, NetBeans...
 
-🌱 Siempre Aprendiendo:
+- 🌱 Siempre Aprendiendo:
 Creo firmemente en la importancia del aprendizaje continuo y la mejora constante. 
 Estoy constantemente explorando nuevas tecnologías y técnicas para mejorar mis habilidades y mantenerme al día con las últimas tendencias en el mundo del desarrollo de software.
 
-🚀 Proyectos en GitHub:
+- 🚀 Proyectos en GitHub:
 Mis proyectos más destacados se encuentran en mis repositorios de GitHub, donde trabajo en una variedad de proyectos que van desde aplicaciones web hasta soluciones de backend y scripts automatizados. 
 ¡No dudes en explorarlos y dejar tus comentarios!
 
-📫 ¡Conectemos!
+- 📫 ¡Conectemos!
 Estoy siempre abierto a nuevas oportunidades de colaboración y conexiones en la comunidad de desarrollo de software. 
 Si tienes alguna idea interesante o simplemente quieres charlar sobre tecnología, ¡no dudes en contactarme!
 
-¡Gracias por visitar mi perfil y explorar mis proyectos! 🚀
 
-- :seedling: Mentoring the new generations of Test Engineers in New Zealand through <a href="https://devacademy.co.nz/testing-automation-essentials/">DevAcademy Aotearoa</a>
 
-- :zap: In my free time, I create content for <a href="https://www.freerangetesters.com/">Free Range Testers</a> and make music on <a href="https://open.spotify.com/intl-es/artist/1n8lYlkH7XKivKBmh6oey1/">Modern Druids</a>.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pato-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patricio-m-690b3729)
+- :mailbox:Cómo encontrarme: [![Linkedin Badge](https://img.shields.io/badge/-Pato-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-ar%C3%A9valo-gil-487962298/)
 
+- ¡Gracias por visitar mi perfil y explorar mis proyectos! 🚀
 ---
 
 ### :hammer_and_wrench: Languages and Dev Tools :
@@ -60,7 +58,7 @@ Si tienes alguna idea interesante o simplemente quieres charlar sobre tecnologí
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.armadilloamarillo.com%2Fblog%2Fsumergete-en-el-mundo-spring-boot%2F&psig=AOvVaw3aim7oXZ6kQ56Qddt2IRWP&ust=1714384615692000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCID078HS5IUDFQAAAAAdAAAAABAK" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" **alt="NextJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
