@@ -45,10 +45,7 @@ Mis proyectos más destacados se encuentran en mis repositorios de GitHub, donde
 Estoy siempre abierto a nuevas oportunidades de colaboración y conexiones en la comunidad de desarrollo de software. 
 Si tienes alguna idea interesante o simplemente quieres charlar sobre tecnología, ¡no dudes en contactarme!
 
-
-
-
-- :mailbox:Cómo encontrarme: [![Linkedin Badge](https://img.shields.io/badge/-Pato-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-ar%C3%A9valo-gil-487962298/)
+- Cómo contactarme: [![Linkedin Badge](https://img.shields.io/badge/-Hugo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-ar%C3%A9valo-gil-487962298/)
 
 - ¡Gracias por visitar mi perfil y explorar mis proyectos! 🚀
 ---
@@ -58,7 +55,7 @@ Si tienes alguna idea interesante o simplemente quieres charlar sobre tecnologí
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.armadilloamarillo.com%2Fblog%2Fsumergete-en-el-mundo-spring-boot%2F&psig=AOvVaw3aim7oXZ6kQ56Qddt2IRWP&ust=1714384615692000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCID078HS5IUDFQAAAAAdAAAAABAK" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="file:///C:/Users/Hugo/Downloads/spring-svgrepo-com.svg" title="SpringBoot" alt="SpringBoot" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" **alt="NextJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -89,12 +86,12 @@ Si tienes alguna idea interesante o simplemente quieres charlar sobre tecnologí
 ---
 
 ### :fire: My Stats :
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thefreerangetester" alt="thefreerangetester" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hugoag03" alt="Hugoag03" /></a> </p>
 <div align="center">  
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=thefreerangetester&theme=dark&background=000000" width="600"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Hugoag03&theme=dark&background=000000" width="600"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefreerangetester&layout=compact&theme=vision-friendly-dark" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoag03&layout=compact&theme=vision-friendly-dark" width="600"/>
 </div>
 
 
