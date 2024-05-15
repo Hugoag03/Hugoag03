@@ -67,5 +67,10 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Hugoag03&theme=dark&background=000000" width="600"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoag03&layout=compact&theme=vision-friendly-dark" width="600"/>
+  <div style="width: 600px; text-align: left;">
+    <div style="background-color: #f1c40f; width: 80%; padding: 10px; color: white;">Java 80%</div>
+    <div style="background-color: #e34c26; width: 10%; padding: 10px; color: white;">HTML 10%</div>
+    <div style="background-color: #563d7c; width: 10%; padding: 10px; color: white;">CSS 10%</div>
+  </div>
 </div>
+
