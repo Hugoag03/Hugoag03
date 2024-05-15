@@ -19,7 +19,7 @@
 
 ¡Hola, soy Hugo Arévalo Gil! 👋<br> Desarrollador de Aplicaciones Multiplataforma (DAM) | Apasionado por la creación de soluciones innovadoras con tecnologías como Java Spring Boot, MySQL, Angular y Python.
 
-- :telescope: ¡Bienvenido a mi perfil de GitHub! Soy un entusiasta desarrollador con una pasión ardiente por la creación de software de calidad que aborda desafíos del mundo real. Con una sólida experiencia en tecnologías como Java Spring Boot, MySQL, Angular y Python, disfruto explorando nuevas formas de desarrollar aplicaciones eficientes y escalables.
+ :telescope: ¡Bienvenido a mi perfil de GitHub! Soy un entusiasta desarrollador con una pasión ardiente por la creación de software de calidad que aborda desafíos del mundo real. Con una sólida experiencia en tecnologías como Java Spring Boot, MySQL, Angular y Python, disfruto explorando nuevas formas de desarrollar aplicaciones eficientes y escalables.<br>
 - 💻 **Tecnologías Favoritas:** 
     - Lenguajes: Java, Python, HTML, CSS, JS, TS...
     - Frameworks: Spring Boot, Angular...
