@@ -58,11 +58,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>
 </div>
 
----
-
-### :fire: Mis estadísticas :
-
-<div align="center">  
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Hugoag03&theme=dark&background=000000" width="600"/>
-</div>
-
