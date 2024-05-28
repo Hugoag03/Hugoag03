@@ -56,5 +56,7 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original-wordmark.svg" title="Postman" alt="Postman" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Mockito_Logo.png" title="Postman" alt="Postman" width="40" height="40"/>
 </div>
 
