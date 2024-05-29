@@ -12,6 +12,7 @@
 <div align="center">
   <img src="Mastermind.gif" width="900" height="500"/>
 </div>
+
 ---
 
 ### :hammer_and_wrench: Lenguajes y Herramientas de Desarrollo :
