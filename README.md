@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="Mastermind.gif" width="900" height="500"/>
+  <img src="Mastermind.gif" width="700" height="350"/>
 </div>
 
 ---
