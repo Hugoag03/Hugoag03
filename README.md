@@ -54,4 +54,4 @@
 - **Cómo contactarme:** [![Linkedin Badge](https://img.shields.io/badge/-Hugo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-arevalo-gil/)
 - ¡Gracias por visitar mi perfil y explorar mis proyectos! 🚀
 
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugoag03&show_icons=true&theme=radical)
+[![Hugo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hugoag03)](https://github.com/anuraghazra/github-readme-stats)
