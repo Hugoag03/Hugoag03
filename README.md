@@ -54,4 +54,5 @@
 - **Cómo contactarme:** [![Linkedin Badge](https://img.shields.io/badge/-Hugo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-arevalo-gil/)
 - ¡Gracias por visitar mi perfil y explorar mis proyectos! 🚀
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hugoag03)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hugoag03&exclude_repo=Juego-Plataformas-2D)](https://github.com/anuraghazra/github-readme-stats)
+
