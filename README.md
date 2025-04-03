@@ -21,6 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="SpringBoot" alt="SpringBoot" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; 
@@ -39,12 +40,12 @@
 
 ¡Hola, soy Hugo Arévalo Gil! 👋<br> Desarrollador de Aplicaciones Multiplataforma (DAM) | Apasionado por la creación de soluciones innovadoras con tecnologías como Java Spring Boot, MySQL, Angular y Python.
 
- :telescope: ¡Bienvenido a mi perfil de GitHub! Soy un entusiasta desarrollador con una pasión ardiente por la creación de software de calidad que aborda desafíos del mundo real. Con una sólida experiencia en tecnologías como Java Spring Boot, MySQL, Angular y Python, disfruto explorando nuevas formas de desarrollar aplicaciones eficientes y escalables.<br>
+ :telescope: ¡Bienvenido a mi perfil de GitHub! Soy un entusiasta desarrollador con una pasión ardiente por la creación de software de calidad que aborda desafíos del mundo real. Con una sólida experiencia en tecnologías como Java (Spring Boot) aplicando la arquitectura de microservicios, MySQL/Oracle y Docker, disfruto explorando nuevas formas de desarrollar aplicaciones eficientes y escalables.<br>
 - 💻 **Tecnologías Favoritas:** 
     - Lenguajes: Java, Python, HTML, CSS, JS, TS...
     - Frameworks: Spring Boot, Angular...
-    - Bases de Datos: MySQL, SQL Server...
-    - Herramientas: Git, GitHub, Android, Unity, VS Code, IntelliJ, NetBeans...
+    - Bases de Datos: MySQL, OracleSQL...
+    - Herramientas: Docker, Git, GitHub, JUnit, Mockito...
 - 🌱 **Siempre Aprendiendo:** 
     - Creo firmemente en la importancia del aprendizaje continuo y la mejora constante. Estoy constantemente explorando nuevas tecnologías y técnicas para mejorar mis habilidades y mantenerme al día con las últimas tendencias en el mundo del desarrollo de software.
 - 🚀 **Proyectos en GitHub:** 
